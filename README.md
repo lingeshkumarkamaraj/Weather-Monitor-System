@@ -1,9 +1,6 @@
 # Weather Monitor System using Wokwi
 
-###### Designed and simulated a Weather Monitoring System in Wokwi using Arduino, integrating a DHT22 sensor to measure temperature and humidity.
-* A 16x2 LCD display is used to show real-time weather data clearly.
-* A push button is employed as a manual trigger in place of a rain sensor to simulate rainfall detection.
-This project demonstrates the use of embedded systems for environmental monitoring and user-interactive weather simulation.
+###### Designed and simulated a Weather Monitoring System in Wokwi using Arduino, integrating a DHT22 sensor to measure temperature and humidity. A 16x2 LCD display is used to show real-time weather data clearly. A push button is employed as a manual trigger in place of a rain sensor to simulate rainfall detection. This project demonstrates the use of embedded systems for environmental monitoring and user-interactive weather simulation.
 ---
 ## Here is the references...
 
